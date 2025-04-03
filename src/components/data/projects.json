@@ -1,0 +1,34 @@
+[
+  {
+    "title": "project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a basic folder structure project",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a basic folder structure project",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a basic folder structure project",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "project D",
+    "imageSrc": "projects/project.png",
+    "description": "This is a basic folder structure project",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

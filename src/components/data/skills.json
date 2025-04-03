@@ -1,0 +1,35 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JAVASCRIPT",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "TAILWIND CSS",
+        "imageSrc": "skills/tailwind.jpeg"
+    },
+    {
+        "title": "REACT JS",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "REDUX",
+        "imageSrc": "skills/redux.png"
+    },
+    {
+        "title": "TYPESCRIPT",
+        "imageSrc": "skills/typescript.png"
+    },
+    {
+        "title": "NEXT JS",
+        "imageSrc": "skills/nextJs.png"
+    }
+
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Front-End Developer",
+        "organisation": "ZF Technology Centre",
+        "startDate": "July, 2023",
+        "endDate": "Present",
+        "experiences": ["Worked on UI part of the web portal", "Worked closely with designers to ensure perfect UI implementation"],
+        "imageSrc" : "history/Zf-logo-resized.jpeg"
+    }
+]
