@@ -1,34 +1,19 @@
 [
   {
-    "title": "project A",
+    "title": "Shopping Cart",
     "imageSrc": "projects/project.png",
-    "description": "This is a basic folder structure project",
-    "skills": ["React"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a basic Shopping cart project using Redux",
+    "skills": ["React", "Redux", "Tailwind CSS"],
+    "demo": "https://shop-cart-redux-react-dummyapi.netlify.app/",
+    "source": "https://github.com/Rishitha-Ganesan2001/Redux-React"
   },
   {
-    "title": "project B",
+    "title": "File Upload",
     "imageSrc": "projects/project.png",
-    "description": "This is a basic folder structure project",
-    "skills": ["React"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a basic folder structure project",
-    "skills": ["React"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "project D",
-    "imageSrc": "projects/project.png",
-    "description": "This is a basic folder structure project",
+    "description": "This is a basic file upload project",
     "skills": ["React"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
+  
 ]
